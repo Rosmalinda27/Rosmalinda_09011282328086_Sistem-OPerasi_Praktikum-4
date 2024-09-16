@@ -1,8 +1,8 @@
-Nama :Rosmalinda <br/>
+Nama : Rosmalinda <br/>
 Nim : 09011282328086 <br/>
 Kelas : SK3B
 
-# Tugas Input dan Output Praktikum 4
+# Laporan Praktikum 4 Proses Input Output I/O
 
 ## 1. Lihat daftar secara lengkap pada direktori aktif, belokkan tampilan standard output ke file baru.
    
@@ -36,33 +36,31 @@ Kelas : SK3B
    <img src="https://github.com/user-attachments/assets/1902d7fc-db84-439f-81f2-1c5b154a4140" width=500/>
    <br/>
 
- 6. Urutkan kalimat berikut : <br/> 
-    Jakarta <br/>
-    Bandung <br/>
-    Surabaya <br/>
-    Padang <br/>
-    Palembang <br/>
-    Lampung <br/>
-    Dengan menggunakan notasi here document (<@@@ …@@@) <p/>
+## 6. Urutkan kalimat berikut :
+   Jakarta <br/>
+   Bandung <br/>
+   Surabaya <br/>
+   Padang <br/>
+   Palembang <br/>
+   Lampung <br/>
+   Dengan menggunakan notasi here document (<@@@ …@@@) <p/>
    <img src="https://github.com/user-attachments/assets/92486931-46bf-44f6-858a-44b068625b00" width=500/>
    <br/>
 
-7. Hitung jumlah baris, kata dan karakter dari file baru.urut dengan menggunakan filter dan tambahkan data tersebut ke    file baru. <p/>
+## 7. Hitung jumlah baris, kata dan karakter dari file baru.urut dengan menggunakan filter dan tambahkan data tersebut ke    file baru. <p/>
    <img src="https://github.com/user-attachments/assets/d58c76ab-c444-4073-a82a-885a0af7d107" width=500/>
    <br/>
 
-8. Gunakan perintah di bawah ini dan perhatikan hasilnya. <br/>
+## 8. Gunakan perintah di bawah ini dan perhatikan hasilnya. <br/>
    $ cat /etc/passwd | sort | pr –n | grep tty03 <br/>
    $ find /etc –print | head <br/>
    $ head /etc/passwd | tail –5 | sort <br/>
-   <img src="https://github.com/user-attachments/assets/a48958af-8ff7-4c6a-b533-9a8ef01526ad" width=500/>
-   <img src="https://github.com/user-attachments/assets/fe6b2392-ca27-410e-a518-fb0b52163c6d" width=500/>
-   <img src="https://github.com/user-attachments/assets/050fb397-e1cc-41ff-b4e4-508e11b7990d" width=500/>
-
    <img src="https://github.com/user-attachments/assets/22f661ba-b00d-42b6-a7dc-efc00dca6d27" width=500/>
    <br/>
+   Penjelasan : <br/>
+   Untuk perintah cat /etc/passwd | sort | pr –n | grep tty03 tidak ada output yang dikeluarkan karena tidak ada entry "tty03" pada /etc/passwd. <p/>
 
-10. Gunakan perintah $ who | cat | cat | sort | pr | head | cat | tail dan perhatikan hasilnya.
+## 9. Gunakan perintah $ who | cat | cat | sort | pr | head | cat | tail dan perhatikan hasilnya.
    <img src="https://github.com/user-attachments/assets/edde222d-5193-4799-b4b2-dd6bac551abd" width=500/>
 
 
