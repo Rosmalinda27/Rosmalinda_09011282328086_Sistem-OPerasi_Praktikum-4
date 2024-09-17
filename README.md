@@ -2,7 +2,7 @@ Nama : Rosmalinda <br/>
 Nim : 09011282328086 <br/>
 Kelas : SK3B
 
-# Laporan Praktikum 4 Proses Input Output I/O
+# Praktikum 4 Proses Input Output I/O
 
 ## 1. Lihat daftar secara lengkap pada direktori aktif, belokkan tampilan standard output ke file baru.
    
