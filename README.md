@@ -57,7 +57,8 @@ Kelas : SK3B
    $ head /etc/passwd | tail –5 | sort <br/>
    <img src="https://github.com/user-attachments/assets/22f661ba-b00d-42b6-a7dc-efc00dca6d27" width=500/>
    <br/>
-   Penjelasan : <br/>
+   
+   Penjelasan : <p/>
    Untuk perintah cat /etc/passwd | sort | pr –n | grep tty03 tidak ada output yang dikeluarkan karena tidak ada entry "tty03" pada /etc/passwd. <p/>
 
 ## 9. Gunakan perintah $ who | cat | cat | sort | pr | head | cat | tail dan perhatikan hasilnya.
