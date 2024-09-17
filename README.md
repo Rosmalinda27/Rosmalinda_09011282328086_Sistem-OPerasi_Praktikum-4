@@ -1,6 +1,8 @@
+<h2>
 Nama : Rosmalinda <br/>
 Nim : 09011282328086 <br/>
 Kelas : SK3B
+<h2/>
 
 # Praktikum 4 Proses Input Output I/O
 
